@@ -15,4 +15,4 @@ client.on("guildMemberAdd", member => {
   welcomeChannel.send (`Hey ${member}, welcome to Kei Karuizawa club! Tauwa! Choose any colour you like from here #✭color-role-shop✭`)
 })
 
-client.login('NzQ0NDU1NzcxMjY5MzY1ODIw.Xzjedw.wmK01f70DOooOeDfVMBxCnPEfxs');
+client.login('token_is_here');
