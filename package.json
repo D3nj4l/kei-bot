@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "AidarHey",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "ascii-table": "0.0.9",
