@@ -9,6 +9,7 @@ const token = process.env.TOKEN;
 if (!token) {
   console.log("Token not provided.");
   console.log("Exiting.");
+  process.exit();
 }
 
 global.prefix = config.prefix;
